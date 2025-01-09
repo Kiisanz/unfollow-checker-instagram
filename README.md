@@ -80,4 +80,4 @@ https://www.instagram.com/username4
 
 ## Kontribusi
 
-Jika Anda ingin berkontribusi pada proyek ini, silakan ajukan pull request atau buka issue untuk diskusi.
+Jika Anda ingin berkontribusi pada proyek ini, silakan ajukan pull request atau buka issue untuk berdiskusi.

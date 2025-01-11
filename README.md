@@ -17,7 +17,7 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal Python dan memi
 
 ### Struktur File JSON
 
-**followers_1.jsonn**
+**followers_1.json**
 
 ```json\
 [

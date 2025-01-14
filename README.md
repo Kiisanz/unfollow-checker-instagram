@@ -4,7 +4,7 @@ Unfollow Tracker adalah aplikasi sederhana yang membantu pengguna Instagram mela
 
 ## Fitur
 
-- Membaca data pengikut dari file JSON.
+- Membaca data pengikut dari file JSONN.
 - Membaca data yang diikuti dari file JSON.
 - Mengidentifikasi akun yang telah unfollow dan menampilkan URL profil mereka.
 
